@@ -1,0 +1,6 @@
+c:\users\miroslav\documents\visual studio 2015\Projects\HomeworkEncapsulationPolymorphism\Problem_1Shapes\bin\Debug\Problem_1Shapes.exe.config
+c:\users\miroslav\documents\visual studio 2015\Projects\HomeworkEncapsulationPolymorphism\Problem_1Shapes\bin\Debug\Problem_1Shapes.exe
+c:\users\miroslav\documents\visual studio 2015\Projects\HomeworkEncapsulationPolymorphism\Problem_1Shapes\bin\Debug\Problem_1Shapes.pdb
+c:\users\miroslav\documents\visual studio 2015\Projects\HomeworkEncapsulationPolymorphism\Problem_1Shapes\obj\Debug\Problem_1Shapes.csprojResolveAssemblyReference.cache
+c:\users\miroslav\documents\visual studio 2015\Projects\HomeworkEncapsulationPolymorphism\Problem_1Shapes\obj\Debug\Problem_1Shapes.exe
+c:\users\miroslav\documents\visual studio 2015\Projects\HomeworkEncapsulationPolymorphism\Problem_1Shapes\obj\Debug\Problem_1Shapes.pdb
