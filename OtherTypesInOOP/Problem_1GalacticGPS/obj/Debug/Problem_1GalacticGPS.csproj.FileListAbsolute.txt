@@ -1,0 +1,6 @@
+c:\users\miroslav\documents\visual studio 2015\Projects\OtherTypesInOOP\Problem_1GalacticGPS\bin\Debug\Problem_1GalacticGPS.exe.config
+c:\users\miroslav\documents\visual studio 2015\Projects\OtherTypesInOOP\Problem_1GalacticGPS\bin\Debug\Problem_1GalacticGPS.exe
+c:\users\miroslav\documents\visual studio 2015\Projects\OtherTypesInOOP\Problem_1GalacticGPS\bin\Debug\Problem_1GalacticGPS.pdb
+c:\users\miroslav\documents\visual studio 2015\Projects\OtherTypesInOOP\Problem_1GalacticGPS\obj\Debug\Problem_1GalacticGPS.csprojResolveAssemblyReference.cache
+c:\users\miroslav\documents\visual studio 2015\Projects\OtherTypesInOOP\Problem_1GalacticGPS\obj\Debug\Problem_1GalacticGPS.exe
+c:\users\miroslav\documents\visual studio 2015\Projects\OtherTypesInOOP\Problem_1GalacticGPS\obj\Debug\Problem_1GalacticGPS.pdb

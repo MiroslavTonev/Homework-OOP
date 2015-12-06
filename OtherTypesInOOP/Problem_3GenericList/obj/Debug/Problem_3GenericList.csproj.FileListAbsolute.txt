@@ -1,0 +1,6 @@
+c:\users\miroslav\documents\visual studio 2015\Projects\OtherTypesInOOP\Problem_3GenericList\bin\Debug\Problem_3GenericList.exe.config
+c:\users\miroslav\documents\visual studio 2015\Projects\OtherTypesInOOP\Problem_3GenericList\bin\Debug\Problem_3GenericList.exe
+c:\users\miroslav\documents\visual studio 2015\Projects\OtherTypesInOOP\Problem_3GenericList\bin\Debug\Problem_3GenericList.pdb
+c:\users\miroslav\documents\visual studio 2015\Projects\OtherTypesInOOP\Problem_3GenericList\obj\Debug\Problem_3GenericList.csprojResolveAssemblyReference.cache
+c:\users\miroslav\documents\visual studio 2015\Projects\OtherTypesInOOP\Problem_3GenericList\obj\Debug\Problem_3GenericList.exe
+c:\users\miroslav\documents\visual studio 2015\Projects\OtherTypesInOOP\Problem_3GenericList\obj\Debug\Problem_3GenericList.pdb

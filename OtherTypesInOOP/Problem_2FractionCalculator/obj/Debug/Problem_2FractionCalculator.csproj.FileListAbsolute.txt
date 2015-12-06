@@ -1,0 +1,6 @@
+c:\users\miroslav\documents\visual studio 2015\Projects\OtherTypesInOOP\Problem_2FractionCalculator\bin\Debug\Problem_2FractionCalculator.exe.config
+c:\users\miroslav\documents\visual studio 2015\Projects\OtherTypesInOOP\Problem_2FractionCalculator\obj\Debug\Problem_2FractionCalculator.csprojResolveAssemblyReference.cache
+c:\users\miroslav\documents\visual studio 2015\Projects\OtherTypesInOOP\Problem_2FractionCalculator\bin\Debug\Problem_2FractionCalculator.exe
+c:\users\miroslav\documents\visual studio 2015\Projects\OtherTypesInOOP\Problem_2FractionCalculator\bin\Debug\Problem_2FractionCalculator.pdb
+c:\users\miroslav\documents\visual studio 2015\Projects\OtherTypesInOOP\Problem_2FractionCalculator\obj\Debug\Problem_2FractionCalculator.exe
+c:\users\miroslav\documents\visual studio 2015\Projects\OtherTypesInOOP\Problem_2FractionCalculator\obj\Debug\Problem_2FractionCalculator.pdb
